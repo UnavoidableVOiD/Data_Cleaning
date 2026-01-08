@@ -9,7 +9,7 @@ This project analyzes the Netflix Movies and TV Shows dataset using Python. The 
 *   **Size:** ~8,800 rows and 12 columns.
 
 ## Technologies Used
-*   **Python 3.x**
+*   **Python 3.14.0**
 *   **Pandas:** For data manipulation, cleaning, and aggregation.
 *   **Matplotlib & Seaborn:** For data visualization.
 
